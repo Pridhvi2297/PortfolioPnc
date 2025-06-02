@@ -29,7 +29,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 git clone https://github.com/prudhvi2297/portfolio.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory :
 ```bash
 cd portfolio
 ```
